@@ -1,0 +1,164 @@
+body{
+    /* text-align: center;
+    color:rgb(88, 29, 77);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    background-image: url("../../assets/תמונות/צילום\ מסך\ 2023-08-29\ 163242.png");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    
+}
+#vacationH1{
+    margin-top: 200px;
+}
+/* h1{  
+    font-size: 80px;
+    margin-top: 200px;
+    font-style: oblique;
+    font-weight: 400;
+} */
+h2{
+    font-size: 40px;
+    padding: 2pt;
+}
+#the_packages{
+    margin-top: 12%;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 20%; 
+    margin-right: 20%;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+#basePackageTitle,#dreamPackageTitle,#premiumPackageTitle{
+    padding: 0px 5px;
+}
+.Packages{
+    height: 100px;
+    width: 300px; 
+    margin-right: 2%;
+    padding-top: 25px;
+    border-color: rgb(73, 21, 63);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 6px;
+}
+.Packages:hover,.currentPackageTitle{
+    background-color:rgb(73, 21, 63); 
+    color: aliceblue;
+    border-color: aliceblue;
+    border-width: thin;
+    border-style: solid;
+    cursor: pointer;
+}
+#VIP_Package{
+    margin-top: 4%;
+}
+h3{
+    font-size: 50px;
+}
+h3:hover{
+    font-size: 60px;
+    cursor: pointer;
+}
+p{
+    font-size: 25px;
+}
+select{
+   width: 200px;
+   height: 50px;
+   text-align: center;
+   font-size: 20px; 
+   background-color: rgb(238, 219, 246);
+   border-radius: 6px; 
+   border-color: rgb(88, 29, 77);
+   border-style: solid;
+   border-width: 2px;
+}
+.chbAndLbl{
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+#chooseTravelSites{
+    font-size: 22px;
+}
+/* .sites{
+    color: rgb(88, 29, 77);
+    background-color: rgb(238, 219, 246);
+    border-radius: 6px; 
+    border-color: rgb(88, 29, 77);
+} */
+.sites{
+    display: flex;
+}
+label{
+   font-size: 17px;
+   margin-left: 3%;
+}
+label:hover{
+    cursor: pointer;
+}
+#lblForChbLeader{
+    font-size: 20px;
+    color: rebeccapurple;
+}
+#btnBuyVIPPackage,#btnSubmitFrmVIPDetails{
+    margin-bottom: 5px;
+}
+#inputCurrentUserEmail,#inputCountJoiners{
+    margin-top: 2%;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(73, 21, 63);
+    border-width: 2px;
+    height: 40px;
+    width: 226px;
+    visibility: hidden;
+    margin-bottom: 0px;
+}
+#inputCountJoiners{
+    width: 226px50px;
+    /* height: 50px; */
+}
+#btnToPay{
+    /* margin-left: 300px; */
+    margin-top: 5px;
+    width: 350px;
+    height: 80px;
+    font-size: 35px;
+    font-weight: 400;animation-name: change-background;
+    animation-duration: 6s;
+    animation-delay: 500ms;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+@keyframes change-background {
+   
+
+    0% {
+        color:#fff ;
+        background-color:rgb(210, 101, 188);
+    }
+
+    35% {
+        background-color: rgb(161, 98, 149);
+        color: #fff;
+    }
+
+    70% {
+
+        background-color: rgb(92, 47, 82);
+        color: #fff;
+    }
+
+    100% {
+        background-color:rgb(83, 23, 71);
+        color:#fff;
+    }
+
+   
+
+}
+

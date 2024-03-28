@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    color:rgb(88, 29, 77);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{  
+    font-size: 80px;
+    margin-top: 60px;
+    font-style: oblique;
+    font-weight: 300;
+}
+a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+nav{
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 500px;
+    top: 0%;
+    width: 65%;
+    justify-content: space-evenly;
+    font-family: 'Heebo';
+    position: fixed;
+    background-color:  rgb(73, 21, 63);
+}
+.logo{
+    top: 0%;
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 80%;
+    position: fixed;
+    z-index: 5;
+}
+#forregistration{
+    font-size: 45px;
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.frmRecord{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    background-color:  rgb(82, 20, 70);
+    height: 250px;
+    margin-top:10px;
+    text-align: center;
+    padding-top: 50px;
+}
+#responsiveIkon{
+    /* margin-top: 500px; */
+   
+    visibility: hidden;
+}
+
+.inputNameRecord{
+    margin-top: 30px;
+    margin-right: 10px;
+    justify-content: space-evenly;
+}
+a:hover {
+    text-decoration:none;
+}
+button{
+    background-color: rgb(55, 53, 53) ;
+}
+.inputNameRecord,.inputPhoneRecord,.inputEmailRecord{
+    margin: 5px;
+    border-radius: 6px;
+    color: rgb(54, 5, 54);
+}
+.butn{
+    color: rgb(238, 219, 246);
+    background-color: rgb(88, 29, 77);
+}
+@media screen and (max-width:840px){
+    nav{
+      visibility: hidden;
+      flex-direction: column;
+      width: 140px;
+      margin-top: 100px;
+      color: rgb(58, 33, 82);
+      margin-left: 40%;
+    }
+    a{
+        border-bottom:solid 2px rgb(211, 161, 227);
+    }
+    h1{
+        font-size: 30px;
+    }
+    #responsiveIkon {
+        visibility:visible;
+        color: rgb(58, 33, 82);
+        margin-top: 50px;
+        font-size: 50px;
+    }
+    
+}

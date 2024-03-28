@@ -1,0 +1,96 @@
+body{
+    font-family: 'Heebo'!important;
+    text-align: center;
+    background-image: url('../../assets/תמונות/צילום מסך 2023-08-22 221805.png');
+    background-repeat: no-repeat;
+    background-position-y: 10%;
+    background-position-x: 40%;  
+    /* background-position: center; */
+     background-size:60%;; }   
+#YsraelDate{
+    margin-left: 40%;
+    width: 10%;
+    height: 6%;
+    background-color: rgb(73, 21, 63);
+    color: aliceblue;
+    font-size: 25px;
+}
+/* img{
+    margin-right: 0ch;
+} */
+
+#homeH1{
+    color:rgb(72, 17, 61);
+    font-size: 100px;
+    font-weight: 550;
+    text-align: center;
+    font-style: italic;
+    animation-name: change-h1;
+    animation-duration: 1s;
+    animation-delay: 100ms;
+    animation-fill-mode: both;
+}
+#titlehome{
+    margin-top: 6%;
+    color:rgb(73, 21, 63);
+    font-size: 35px;
+    font-weight: 500;
+}
+#moredetails{
+    font-size: 23px;
+    justify-content: center;
+    background-color:#00A6BF;
+    display: flex;
+    flex-wrap: wrap;
+    width: 112px;
+    height:150px ;
+    color:white ;
+    font-weight:700;
+    border-radius: 5ch;
+    border-bottom-right-radius: 0ch;
+    border-top-right-radius: 0ch ;
+    border:solid  aliceblue;
+    border-width: 1ch;
+    margin-left: 93%;
+    /* justify-items: left; */
+    margin-top: 20%;
+    line-height: 2ch;
+    padding-top: 12px;
+}
+@keyframes change-h1 {
+
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0.1;
+    }
+    20% {
+        opacity: 0.2;
+    }
+    30% {
+        opacity: 0.3;
+    }
+    40% {
+        opacity: 0.4;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    60% {
+        opacity: 0.6;
+    }
+    70% {
+        opacity: 0.7;
+    }
+    80% {
+        opacity: 0.8;
+    }
+    90% {
+        opacity: 0.9;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}

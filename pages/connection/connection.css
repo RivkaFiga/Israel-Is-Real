@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(73, 21, 63);
+    color: azure;
+}
+nav{
+    background-color: white;
+}
+a{
+    color: rgb(73, 21, 63);
+}
+#frmConection{
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 100px;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1{
+    font-style: oblique;
+    font-size: 100px;
+    text-align: center;    
+    margin-top: 150px;
+}
+input,button{
+    height: 40px;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 0.5pc;
+}
+.nametel{
+    margin-right: 20px;
+    width: 250px;
+}
+#inputMessegeConection{
+    margin-top: -270px;    
+    /* width: 500px;
+    height: 100px;
+    margin-left: 100px; */
+    width: 40%;
+height: 150px;
+margin-left: 10%;
+}
+button{
+    margin-top: -250px;
+    margin-left: 10px;
+    width:100px;
+    height: 70px;
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top:25px;
+    padding-left: 17px;
+}
+#btnSubmitConection>i{
+    padding-top:0px;
+    font-size: 30px;
+    background: none; 
+    color: white;
+    border: none;   
+}
+#phoneEmail{
+    width: 150px;
+    margin-right:140px;
+}
+.phone{
+    font-size: 20px;
+    width: 150px;
+    height: 100px;
+}
+i{
+    font-size: 60px;
+    padding-top: 20px;
+    text-align: center;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    color: rgb(73, 21, 63);
+}
+@media screen and (max-width:840px){
+    #inputMessegeConection{
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    button{
+        margin-top: 50px;
+    }
+}

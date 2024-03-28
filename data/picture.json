@@ -1,0 +1,342 @@
+
+[
+    {
+        "ID":"0",
+        "name":"Yehuda Desert",
+        "area":"the Jerusalem region",
+        "adress":"amit-lahav-zHACcq-nFo8-unsplash.jpg",
+        "abote":" ",
+        "type":"Travel site"
+    },
+
+    {
+        "ID":"1",
+        "name":"Yehuda Desert",
+        "area":"the Jerusalem region",
+        "adress":"avi-theret-YcCHjtZFAvQ-unsplash.jpg",
+        "abote":" ",
+        "type":"Travel site"
+    },
+    {
+        "ID":"2",
+        "name":"An allay in Safed",
+        "area":"the northern region",
+        "adress":"benjamin-recinos-cpnwdY87nZs-unsplash.jpg",
+        "abote":" ",
+        "type":"Travel site"
+    }
+      ,{
+        "ID":"3",
+        "name":"An Ramada hotel",
+        "area":"center",
+        "adress":"adriana-saraceanu-_ixNdO62FSg-unsplash.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    }
+    ,{
+        "ID":"4",
+        "name":"The Arabel mountain  ",
+        "area":"the northern region",
+        "adress":"dave-herring-kRxtlC4vQtE-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"5",
+        "name":"The dead sea",
+        "area":"the southern region",
+        "adress":"dave-herring-tArR7ys2F3Q-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"6",
+        "name":"The Kinneret at sunset ",
+        "area":"the northern region",
+        "adress":"dave-herring-wzsAEYNb-VI-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"8",
+        "name":"Cable car in Akhziv",
+        "area":"the northern region",
+        "adress":"DSCN6058-edit.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"9",
+        "name":"The western wall",
+        "area":"the Jerusalem region",
+        "adress":"ilanit-ohana-FT1wLR8KYhY-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"10",
+        "name":"Beach in Old Acre",
+        "area":"the northern region",
+        "adress":"faruk-kaymak-dZj85MyTT0k-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"11",
+        "name":"Jerusalem Hilton Hotel",
+        "area":"the Jerusalem region",
+        "adress":"gerson-repreza-CepDpEiALqM-unsplash.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    }
+    ,{
+        "ID":"12",
+        "name":"Mahane Yehuda Market",
+        "area":"the Jerusalem region",
+        "adress":"tim-mossholder-vN1VxmcWGgc-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    
+    ,{
+        "ID":"13",
+        "name":"A stream in the north",
+        "area":"the northern region",
+        "adress":"robert-bye-gFSqwxMTYXw-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    
+    ,{
+        "ID":"14",
+        "name":"landscapes",
+        "area":"the northern region",
+        "adress":"johnnie-cohen-D8EHSNPVrRo-unsplash.jpg",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"15",
+        "name":"Jerusalem Hilton Hotel",
+        "area":"the Jerusalem region",
+        "adress":"linus-mimietz-p3UWyaujtQo-unsplash.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    },{
+        "ID":"16",
+        "name":"Kever Rachel",
+        "area":"the Jerusalem region",
+        "adress":"צילום מסך 2023-07-13 223529.png",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"17",
+        "name":"kever harashby",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-13 224433.png",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"18",
+        "name":"Mearat Hamachpela",
+        "area":"the Jerusalem region",
+        "adress":"צילום מסך 2023-07-13 222619.png",
+        "abote":"",
+        "type":"Travel site"
+
+    },{
+        "ID":"19",
+        "name":"Jerusalem Hilton Hotel",
+        "area":"the northern region",
+        "adress":"gerson-repreza-CepDpEiALqM-unsplash.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    },{
+        "ID":"20",
+        "name":"Nir Etzyon hotel",
+        "area":"the northern region",
+        "adress":"adriana-saraceanu-_ixNdO62FSg-unsplash.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    }
+    ,{
+        "ID":"21",
+        "name":"",
+        "area":"",
+        "adress":"צילום מסך 2023-07-14 013027.png",
+        "abote":"",
+        "type":"hotel  details "
+
+    }
+    ,{
+        "ID":"22",
+        "name":"",
+        "area":"",
+        "adress":"צילום מסך 2023-07-14 020059.png",
+        "abote":"",
+        "type":"hotel details"
+
+    }
+    ,{
+        "ID":"23",
+        "name":"",
+        "area":"",
+        "adress":"צילום מסך 2023-08-31 185339.png",
+        "abote":"",
+        "type":"hotel details"
+
+    }
+    ,{
+        "ID":"24",
+        "name":"",
+        "area":"",
+        "adress":"pexels-nati-16551433.jpg",
+        "abote":"",
+        "type":"hotel"
+
+    }
+    ,{
+        "ID":"25",
+        "name":"Masada",
+        "area":"the southern region",
+        "adress":"צילום מסך 2023-07-25 151824.png",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"26",
+        "name":"Kayaking in Jordan",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-25 152231.png",
+        "abote":"",
+        "type":"Travel site"
+
+    },{
+        "ID":"27",
+        "name":"Nahal David Ein Gedi",
+        "area":"the southern region",
+        "adress":"צילום מסך 2023-07-25 152332.png",
+        "abote":"",
+        "type":"Travel site"
+
+    },{
+        "ID":"28",
+        "name":"Mount Hermon",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-25 152641.png",
+        "abote":"",
+        "type":"Travel site"
+
+    },
+    {
+        "ID":"29",
+        "name":"Mount Carmel",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-25 153637.png",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"30",
+        "name":"Rosh Hanikra",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-25 153904.png",
+        "abote":"",
+        "type":"Travel site"
+
+    },{
+        "ID":"31",
+        "name":"Gan Handiv Zichron Ya'akov",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-07-25 160311.png",
+        "abote":"",
+        "type":"Travel site"
+
+    }
+    ,{
+        "ID":"32",
+        "name":"",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-08-31 181207.png",
+        "abote":"",
+        "type":"hotel details"
+
+    }
+    ,{
+        "ID":"33",
+        "name":"",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-08-31 181219.png",
+        "abote":"",
+        "type":"hotel details"
+
+    }
+,{
+        "ID":"34",
+        "name":"",
+        "area":"the northern region",
+        "adress":"צילום מסך 2023-08-31 181234.png",
+        "abote":"",
+        "type":"hotel details"
+
+    }
+    
+,{
+    "ID":"35",
+    "name":"",
+    "area":"the northern region",
+    "adress":"צילום מסך 2023-08-31 181245.png",
+    "abote":"",
+    "type":"hotel details"
+
+}
+,{
+    "ID":"37",
+    "name":"",
+    "area":"the northern region",
+    "adress":"צילום מסך 2023-08-31 185249.png",
+    "abote":"",
+    "type":"hotel details"
+
+}
+,{
+    "ID":"38",
+    "name":"",
+    "area":"the northern region",
+    "adress":"צילום מסך 2023-08-31 185324.png",
+    "abote":"",
+    "type":"hotel details"
+
+},{
+    "ID":"39",
+    "name":"",
+    "area":"the northern region",
+    "adress":"צילום מסך 2023-08-31 185259.png",
+    "abote":"",
+    "type":"hotel details"
+
+}
+
+
+
+ ]
